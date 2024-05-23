@@ -28,6 +28,8 @@ During the development of this project, I utilized various data science concepts
 
 To run this project on your local machine, follow these steps:
 
-1. **Clone the Repository**: Clone the repository from GitHub.
+ **Clone the Repository**: Clone the repository from GitHub.
    ```sh
    git clone https://github.com/alziyan/Bangalore-Home-Price-Prediction.git
+   
+
